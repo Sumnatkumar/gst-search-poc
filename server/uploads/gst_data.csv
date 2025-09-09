@@ -1,0 +1,34 @@
+ const sampleData = [
+            {
+                gstin: '07AABCU9603R1ZM',
+                legalName: 'ABC Enterprises',
+                tradeName: 'ABC Traders',
+                registrationDate: '2022-01-15',
+                state: 'Delhi',
+                businessType: 'Regular',
+                status: 'Active',
+                address: '123 Main St, Delhi'
+            },
+            {
+                gstin: '09PQRST5678L2ZN',
+                legalName: 'PQR Industries',
+                tradeName: '',
+                registrationDate: '2021-11-20',
+                state: 'Maharashtra',
+                businessType: 'Composition',
+                status: 'Active',
+                address: '456 Oak Ave, Mumbai'
+            },
+            {
+                gstin: '24ABCDE1234F1Z5',
+                legalName: 'XYZ Traders',
+                tradeName: 'XYZ World',
+                registrationDate: '2020-05-10',
+                state: 'Karnataka',
+                businessType: 'Regular',
+                status: 'Active',
+                address: '789 Bangalore Road, Bangalore'
+            }
+        ];
+        
+        
